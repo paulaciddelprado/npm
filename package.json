@@ -1,0 +1,17 @@
+{
+  "name": "aprendiendo-npm",
+  "version": "1.0.0",
+  "description": "Aprendiendo npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paula Cid del Prado",
+  "license": "ISC",
+  "dependencies": {
+    "sweetalert2": "^11.1.7"
+  },
+  "devDependencies": {
+    "parcel": "^2.0.0-rc.0"
+  }
+}

@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../poo"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "aprendiendo-npm"
+	}
+}
